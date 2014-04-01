@@ -101,6 +101,16 @@ p {
     margin-bottom: 10px;
 }
 
+#contact{
+	float: right;
+	width: 425px ;
+	height: 350px ;
+	border: 0;
+/*	scrolling: no ;*/
+/*	marginheight: 0px;*/
+/*	marginwidth:  0px;*/
+}
+
 #contact_form {
     text-align: left;
     position: relative;
