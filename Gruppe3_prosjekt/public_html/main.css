@@ -111,6 +111,11 @@ p {
     width: 100%;
 }
 
+#purchase_table img {
+    width: 150px;
+    height: 150px;
+}
+
 #purchase_table td,tr, th {
     text-align: center;
     border: 1px solid black;
