@@ -102,9 +102,9 @@ p {
 }
 
 #map{
+margin: auto;
     bottom: 210px;
     left: 30px;
-    float: none;
     position: relative;
     width: 425px ;
     height: 350px ;
@@ -114,9 +114,7 @@ p {
 
 #contact_form {
     text-align: left;
-    float: none;
     position: relative; right: -465px; top: 70px;
-    width: 500px;
 }
 
 #contact_form td{
