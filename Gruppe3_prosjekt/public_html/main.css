@@ -102,23 +102,26 @@ p {
 }
 
 #map{
-    position: relative;
     bottom: 210px;
     left: 30px;
-    float: right;
+    float: none;
+    position: relative;
     width: 425px ;
     height: 350px ;
     border: 0;
-    /*	scrolling: no ;*/
-    /*	marginheight: 0px;*/
-    /*	marginwidth:  0px;*/
+    padding-top: 20px;
 }
 
 #contact_form {
     text-align: left;
-    position: relative;
-    padding-top: 10px;
+    float: none;
+    position: relative; right: -465px; top: 70px;
     width: 500px;
+}
+
+#contact_form td{
+	float:left;
+	width: 100px;
 }
 
 #purchase_table {
