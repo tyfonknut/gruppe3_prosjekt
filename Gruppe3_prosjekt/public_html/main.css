@@ -134,7 +134,9 @@ p {
 #purchase_table img {
     width: 150px;
     height: 150px;
+    
 }
+
 
 #purchase_table td,tr, th {
     text-align: center;
@@ -143,6 +145,7 @@ p {
     padding-right: 20px;
     padding-top: 5px;
     padding-bottom: 5px;
+    vertical-align: middle;
 }
 
 #footer {
