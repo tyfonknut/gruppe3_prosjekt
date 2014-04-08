@@ -101,20 +101,17 @@ p {
     margin-bottom: 10px;
 }
 
-#map{
-margin: auto;
-    bottom: 210px;
-    left: 30px;
-    position: relative;
-    width: 425px ;
-    height: 350px ;
-    border: 0;
-    padding-top: 20px;
+#contact {
+    width:760px;
+    padding:4px;
+    margin:auto;
 }
 
-#contact_form {
-    text-align: left;
-    position: relative; right: -465px; top: 70px;
+#map iframe{
+    bottom: 210px;
+    left: 30px;
+    width: 425px ;
+    height: 325px ;
 }
 
 #contact_form td{
