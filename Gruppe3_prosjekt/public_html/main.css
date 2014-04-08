@@ -102,9 +102,13 @@ p {
 }
 
 #contact {
-    width:760px;
+    width: 800px;
     padding:4px;
     margin:auto;
+}
+
+#contact td{
+    padding-right: 10px;
 }
 
 #map iframe{
